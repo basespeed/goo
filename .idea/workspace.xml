@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fa40ff9-ba3c-4f7b-96ac-e33ab06d9d98" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>remove_update_notifications</find>
+      <find>my_custom_fonts</find>
+      <find>get_templates_page</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/nextcore/core/core.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/nextcore/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/nextcore/core/inc/lib/function-default.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/nextcore/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/nextcore/core/inc/templates/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/kqxs/kqxs.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/kqxs/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/kqxs/assets/css/admin.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/kqxs/inc/main.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp38849/public_html/wp-content/themes/flatsome-child/taxonomy-danh_muc_thuong_hieu.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp34226/public_html/wp-content/themes/flatsome-child/taxonomy-floor.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp47383/public_html/wp-content/themes/flatsome-child/archive-thuong_hieu.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp19635/public_html/wp-content/themes/flatsome-child/template-parts/posts/content-single.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp39915/public_html/wp-content/themes/flatsome-child/style.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp49134/public_html/wp-content/themes/flatsome-child/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/nextcore/comments.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="80" />
+    <option name="y" value="75" />
+    <option name="width" value="1030" />
+    <option name="height" value="550" />
+  </component>
+  <component name="ProjectId" id="1dWWu8WBYKjnoQsndWru7suon6V" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="goo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dccd\wp-content\plugins\elementor-cms\assets\css\style" />
+      <recent name="C:\xampp\htdocs\dccd\wp-content\plugins\elementor-cms\assets\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fa40ff9-ba3c-4f7b-96ac-e33ab06d9d98" name="Default Changelist" comment="" />
+      <created>1592541548207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592541548207</updated>
+      <workItem from="1592541549366" duration="16108000" />
+      <workItem from="1593134107991" duration="893000" />
+      <workItem from="1593135005027" duration="32000" />
+      <workItem from="1593135053379" duration="1664000" />
+      <workItem from="1595759925400" duration="3810000" />
+      <workItem from="1595818155877" duration="15548000" />
+      <workItem from="1595873306435" duration="599000" />
+      <workItem from="1596008137259" duration="888000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23434000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/core/core.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/functions.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/core/inc/lib/function-default.php" />
+    <entry file="file://$PROJECT_DIR$/wp-config.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/core/inc/templates/page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/kirki/kirki.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/kqxs/kqxs.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/kqxs/assets/css/admin.css" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/kqxs/assets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/kqxs/inc/main.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp38849/public_html/wp-content/themes/flatsome-child/taxonomy-danh_muc_thuong_hieu.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp34226/public_html/wp-content/themes/flatsome-child/taxonomy-floor.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp19635/public_html/wp-content/themes/flatsome-child/template-parts/posts/content-single.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp39915/public_html/wp-content/themes/flatsome-child/style.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp47383/public_html/wp-content/themes/flatsome-child/archive-thuong_hieu.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55023/public_html/wp-content/themes/flatsome/functions.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp49134/public_html/wp-content/themes/flatsome-child/functions.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp52214/public_html/wp-content/themes/flatsome/archive-featured_item.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/comments.php" />
+  </component>
+</project>
