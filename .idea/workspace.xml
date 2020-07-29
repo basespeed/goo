@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fa40ff9-ba3c-4f7b-96ac-e33ab06d9d98" name="Default Changelist" comment="" />
+    <list default="true" id="9fa40ff9-ba3c-4f7b-96ac-e33ab06d9d98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/nextcore.zip" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +65,17 @@
               <item name="goo" type="b2602c69:ProjectViewProjectNode" />
               <item name="goo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="goo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goo" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goo" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -116,12 +129,12 @@
       <workItem from="1595759925400" duration="3810000" />
       <workItem from="1595818155877" duration="15548000" />
       <workItem from="1595873306435" duration="599000" />
-      <workItem from="1596008137259" duration="888000" />
+      <workItem from="1596008137259" duration="927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23434000" />
+    <option name="totallyTimeSpent" value="23473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
