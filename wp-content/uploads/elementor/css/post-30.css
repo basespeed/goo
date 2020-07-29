@@ -1,0 +1,86 @@
+.elementor-30 .elementor-element.elementor-element-0f475c0:not(.elementor-motion-effects-element-type-background), .elementor-30 .elementor-element.elementor-element-0f475c0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://localhost/xevietnam/wp-content/uploads/2020/06/anh1_vthk.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-30 .elementor-element.elementor-element-0f475c0 > .elementor-background-overlay{background-color:#000000;opacity:0.75;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-30 .elementor-element.elementor-element-0f475c0{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:80px 0px 80px 0px;}.elementor-30 .elementor-element.elementor-element-7b84f06{text-align:center;}.elementor-30 .elementor-element.elementor-element-7b84f06.elementor-widget-heading .elementor-heading-title{color:#FFFFFF;}.elementor-30 .elementor-element.elementor-element-7b84f06 .elementor-heading-title{font-size:40px;}.elementor-30 .elementor-element.elementor-element-7c11de3{font-size:16px;font-weight:600;color:#66656C;}.elementor-30 .elementor-element.elementor-element-7c11de3 a{color:#66656C;}.elementor-30 .elementor-element.elementor-element-7c11de3 > .elementor-widget-container{margin:10px 0px 10px 0px;}.elementor-30 .elementor-element.elementor-element-eea26b0{margin-top:30px;margin-bottom:0px;}.elementor-30 .elementor-element.elementor-element-d2be1f4.elementor-widget-heading .elementor-heading-title{color:#1589CE;}.elementor-30 .elementor-element.elementor-element-d2be1f4 .elementor-heading-title{font-size:24px;}.elementor-30 .elementor-element.elementor-element-fcde5cb{line-height:1.4em;}.elementor-30 .elementor-element.elementor-element-f4d0a78.elementor-widget-heading .elementor-heading-title{color:#1589CE;}.elementor-30 .elementor-element.elementor-element-f4d0a78 .elementor-heading-title{font-size:24px;text-transform:uppercase;}.elementor-30 .elementor-element.elementor-element-27e9264 > .elementor-widget-container{margin:-8px 0px 0px 0px;}.elementor-30 .elementor-element.elementor-element-5644c70{margin-top:60px;margin-bottom:0px;}.elementor-30 .elementor-element.elementor-element-665133e iframe{height:570px;}/* Start custom CSS for theme-page-title, class: .elementor-element-7b84f06 */.elementor-30 .elementor-element.elementor-element-7b84f06 h1{
+    margin: 0;
+}/* End custom CSS */
+/* Start custom CSS for breadcrumbs, class: .elementor-element-7c11de3 */.elementor-30 .elementor-element.elementor-element-7c11de3{
+    font-family: Sans-Serif;
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-fcde5cb */.elementor-30 .elementor-element.elementor-element-fcde5cb strong{
+    color: #1589CE;
+}
+.elementor-30 .elementor-element.elementor-element-fcde5cb a{
+    color: #1589CE;
+}
+
+.elementor-30 .elementor-element.elementor-element-fcde5cb ul{
+    margin: 0;
+    padding:0px 15px;
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-27e9264 */.elementor-30 .elementor-element.elementor-element-27e9264 label{
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    color: #444;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.elementor-30 .elementor-element.elementor-element-27e9264 ul{
+    display: flex;
+    flex-wrap: wrap;
+    width: calc(100% + 20px);
+    margin-left: -10px !important;
+}
+
+.elementor-30 .elementor-element.elementor-element-27e9264 ul li{
+    list-style: none;
+    padding: 0 10px;
+}
+
+.elementor-30 .elementor-element.elementor-element-27e9264 ul li:nth-child(1){
+    width: 33.33%;
+}
+
+.elementor-30 .elementor-element.elementor-element-27e9264 ul li:nth-child(2){
+    width: 33.33%;
+}
+
+.elementor-30 .elementor-element.elementor-element-27e9264 ul li:nth-child(3){
+    width: 33.33%;
+}
+
+.elementor-30 .elementor-element.elementor-element-27e9264 ul li:nth-child(4){
+    width: 100%;
+}
+
+.elementor-30 .elementor-element.elementor-element-27e9264 ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-27e9264 input,.elementor-30 .elementor-element.elementor-element-27e9264 textarea{
+    width: 100%;
+    border:1px solid #444;
+    height: 30px;
+}
+.elementor-30 .elementor-element.elementor-element-27e9264 textarea{
+    height: 60px;
+    width: 100%;
+}
+.elementor-30 .elementor-element.elementor-element-27e9264 button{
+    width: 100%;
+    margin-left: 0px;
+    height: 35px;
+    margin-top: 15px;
+    background: #1589CE;
+    border: none;
+    outline: none;
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-27e9264 button:hover{
+    background: #000;
+}/* End custom CSS */

@@ -1,0 +1,74 @@
+.elementor-28 .elementor-element.elementor-element-43b469a:not(.elementor-motion-effects-element-type-background), .elementor-28 .elementor-element.elementor-element-43b469a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://localhost/xevietnam/wp-content/uploads/2020/06/anh1_vthk.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-28 .elementor-element.elementor-element-43b469a > .elementor-background-overlay{background-color:#000000;opacity:0.75;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-28 .elementor-element.elementor-element-43b469a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:80px 0px 80px 0px;}.elementor-28 .elementor-element.elementor-element-ec9b3fa{text-align:center;}.elementor-28 .elementor-element.elementor-element-ec9b3fa.elementor-widget-heading .elementor-heading-title{color:#FFFFFF;}.elementor-28 .elementor-element.elementor-element-ec9b3fa .elementor-heading-title{font-size:40px;}.elementor-28 .elementor-element.elementor-element-bcb3b22{font-size:16px;font-weight:600;color:#66656C;}.elementor-28 .elementor-element.elementor-element-bcb3b22 a{color:#66656C;}.elementor-28 .elementor-element.elementor-element-bcb3b22 > .elementor-widget-container{margin:10px 0px 10px 0px;}.elementor-28 .elementor-element.elementor-element-8b027c8{margin-top:30px;margin-bottom:0px;}.elementor-28 .elementor-element.elementor-element-5d934b2 > .elementor-element-populated{padding:10px 30px 10px 10px;}.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.66 * 100% );}.elementor-28 .elementor-element.elementor-element-6bcdb04:after{content:"0.66";position:absolute;color:transparent;}.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-post__thumbnail__link{width:100%;}.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-post__meta-data span + span:before{content:"|";}.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-posts-container{grid-column-gap:30px;grid-row-gap:35px;}.elementor-msie .elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-post{padding-right:calc( 30px/2 );padding-left:calc( 30px/2 );padding-bottom:35px;}.elementor-msie .elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-posts-container{margin-left:calc( -30px/2 );margin-right:calc( -30px/2 );}.elementor-28 .elementor-element.elementor-element-6bcdb04.elementor-posts--thumbnail-left .elementor-post__thumbnail__link{margin-right:20px;}.elementor-28 .elementor-element.elementor-element-6bcdb04.elementor-posts--thumbnail-right .elementor-post__thumbnail__link{margin-left:20px;}.elementor-28 .elementor-element.elementor-element-6bcdb04.elementor-posts--thumbnail-top .elementor-post__thumbnail__link{margin-bottom:20px;}.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-post__title, .elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-post__title a{color:#444444;}.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-post__title{margin-bottom:5px;}.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-post__meta-data{color:#888888;text-transform:capitalize;font-style:italic;margin-bottom:20px;}.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-pagination{text-align:center;}body:not(.rtl) .elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-pagination .page-numbers:not(:first-child){margin-left:calc( 10px/2 );}body:not(.rtl) .elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-pagination .page-numbers:not(:last-child){margin-right:calc( 10px/2 );}body.rtl .elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-pagination .page-numbers:not(:first-child){margin-right:calc( 10px/2 );}body.rtl .elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-pagination .page-numbers:not(:last-child){margin-left:calc( 10px/2 );}.elementor-28 .elementor-element.elementor-element-3a28798 > .elementor-widget-container{margin:0px 0px 0px 0px;}@media(max-width:767px){.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% );}.elementor-28 .elementor-element.elementor-element-6bcdb04:after{content:"0.5";position:absolute;color:transparent;}.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-post__thumbnail__link{width:100%;}}@media(min-width:768px){.elementor-28 .elementor-element.elementor-element-5d934b2{width:74.957%;}.elementor-28 .elementor-element.elementor-element-125a1d8{width:25.002%;}}/* Start custom CSS for theme-page-title, class: .elementor-element-ec9b3fa */.elementor-28 .elementor-element.elementor-element-ec9b3fa h1{
+    margin: 0;
+}/* End custom CSS */
+/* Start custom CSS for breadcrumbs, class: .elementor-element-bcb3b22 */.elementor-28 .elementor-element.elementor-element-bcb3b22{
+    font-family: Sans-Serif;
+}/* End custom CSS */
+/* Start custom CSS for posts, class: .elementor-element-6bcdb04 */.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-post__read-more{
+    color: #fff;
+    display: block;
+    width: 120px;
+    height: 35px;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 35px;
+    text-transform: uppercase;
+    background: #1589CE;
+}
+
+.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-pagination{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-post__meta-data{
+    font-family: Sans-Serif;
+}
+
+.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-pagination span,.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-pagination a{
+    display: block;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    color: #FFF;
+    background: #1589CE;
+    font-family: Sans-Serif;
+}
+
+.elementor-28 .elementor-element.elementor-element-6bcdb04 .elementor-pagination span{
+    background: #444;
+}
+.elementor-28 .elementor-element.elementor-element-6bcdb04 span.prev{
+    display: none;
+}
+
+.elementor-28 .elementor-element.elementor-element-6bcdb04 span.next{
+    display: none;
+}/* End custom CSS */
+/* Start custom CSS for wp-widget-categories, class: .elementor-element-3a28798 */.elementor-28 .elementor-element.elementor-element-3a28798 h5{
+    color: #1589CE;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.elementor-28 .elementor-element.elementor-element-3a28798 ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    margin-top: 25px;
+}
+
+.elementor-28 .elementor-element.elementor-element-3a28798 ul li{
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom:1px solid #eaeaea;
+}
+
+.elementor-28 .elementor-element.elementor-element-3a28798 ul li a{
+    color: #444;
+    font-weight: 400;
+}/* End custom CSS */
