@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fa40ff9-ba3c-4f7b-96ac-e33ab06d9d98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/nextcore/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/nextcore/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -39,7 +48,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/nextcore/core/core.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/nextcore/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/nextcore/core/inc/lib/function-default.php" />
-        <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/nextcore/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/nextcore/core/inc/templates/page.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/kqxs/kqxs.php" />
@@ -54,6 +62,7 @@
         <option value="$USER_HOME$/AppData/Local/Temp/scp49134/public_html/wp-content/themes/flatsome-child/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/nextcore/comments.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/nextcore/style.css" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
       </list>
     </option>
   </component>
@@ -147,12 +156,12 @@
       <workItem from="1595759925400" duration="3810000" />
       <workItem from="1595818155877" duration="15548000" />
       <workItem from="1595873306435" duration="599000" />
-      <workItem from="1596008137259" duration="1405000" />
+      <workItem from="1596008137259" duration="2050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23951000" />
+    <option name="totallyTimeSpent" value="24596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -172,7 +181,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -187,7 +196,6 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/core/core.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/functions.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/core/inc/lib/function-default.php" />
-    <entry file="file://$PROJECT_DIR$/wp-config.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/page.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/nextcore/core/inc/templates/page.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/kirki/kirki.php" />
@@ -208,6 +216,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
         </state>
       </provider>
     </entry>
